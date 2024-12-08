@@ -1,1 +1,3 @@
 # Synthetic-Network-Data-Generator
+
+Network Intrusion Detection Systems (NIDS) are essential for protecting critical digital infrastructure from cyber threats. Machine learning-based models are widely used in NIDS. However, their effectiveness is often limited by the ever-evolving intrusion methods and the scarcity of relevant training data. This project proposes an approach to enhance NIDS performance by incorporating Generative Adversarial Networks (GANs). By leveraging GANs to generate synthetic network traffic data that closely imitates real-world behavior, the issue of limited training datasets is addressed.
